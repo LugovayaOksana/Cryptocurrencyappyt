@@ -2,8 +2,8 @@
   <library name="Gradle: androidx.compose.material:material-icons-core:1.0.1@aar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/10f15f0946b6608d3042d6a5884a9c66/transformed/jetified-material-icons-core-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/10f15f0946b6608d3042d6a5884a9c66/transformed/jetified-material-icons-core-1.0.1/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/10f15f0946b6608d3042d6a5884a9c66/transformed/jetified-material-icons-core-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/10f15f0946b6608d3042d6a5884a9c66/transformed/jetified-material-icons-core-1.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

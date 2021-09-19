@@ -2,8 +2,8 @@
   <library name="Gradle: androidx.compose.ui:ui-tooling:1.0.1@aar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/9079f3e81b2007c284ee803d7c297933/transformed/jetified-ui-tooling-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9079f3e81b2007c284ee803d7c297933/transformed/jetified-ui-tooling-1.0.1/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9079f3e81b2007c284ee803d7c297933/transformed/jetified-ui-tooling-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9079f3e81b2007c284ee803d7c297933/transformed/jetified-ui-tooling-1.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -4,17 +4,6 @@
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
-<!--    presentation: используем для ui
-                      view, viewModels, ui
-
-        domain: содержить модели, интерфесы для репозиториев, бизнес логику
-
-        data:
-
-       dto: data-transfer-object
-
--->
-
     <application
         android:name=".CoinApplication"
         android:allowBackup="true"
